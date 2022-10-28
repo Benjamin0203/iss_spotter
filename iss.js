@@ -92,4 +92,4 @@ const nextISSTimesForMyLocation = callback => {
 
 
 
-module.exports = {nextISSTimesForMyLocation };
+module.exports = {nextISSTimesForMyLocation};
